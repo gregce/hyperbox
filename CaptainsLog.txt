@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 2014-04-27: This is the captain’s log. #100DaysOfPython begins. Began Google’s python class. Committed two python files to Hyperbox. We’re up and running.
 2014-04-28: (Placeholder)
+=======
+2014-04-27: This is the captain’s log. #100DaysOfPython begins. Began Google’s python class. Committed two python files to Hyperbox. We’re up and running.
+>>>>>>> b24b96700638d6a5cfdc615e02cd5245e533d63e
