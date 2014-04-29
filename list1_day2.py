@@ -67,7 +67,7 @@ def front_x(words):
     list2.sort()
     #return the final list with the extend operator
     finallist=list1+list2
-    print finallist
+    #print finallist
     return finallist
 
 
@@ -78,9 +78,20 @@ def front_x(words):
 # e.g. [(1, 7), (1, 3), (3, 4, 5), (2, 2)] yields
 # [(2, 2), (1, 3), (3, 4, 5), (1, 7)]
 # Hint: use a custom key= function to extract the last element form each tuple.
+def key_function(tuplex):
+    length=int(len(tuplex)-1)
+    tuplex=tuplex[length]
+    return tuplex
+
 def sort_last(tuples):
-  # +++your code here+++
-  return
+    list1=[]
+    list2=[]
+    for tuplex in tuples:
+        length=int(len(tuplex)-1)
+        list1.append(tuplex)        
+        list2=sorted(list1,key=lambda tuplex:tuplex[1])
+    #print list2
+    return list2
 
 
 # Simple provided test() function used in main() to print

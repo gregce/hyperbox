@@ -5,8 +5,6 @@
 
 #Import Modules Here
 import sys
-Job description
-
 
 #Gather our test code in a main() function
 def main():
