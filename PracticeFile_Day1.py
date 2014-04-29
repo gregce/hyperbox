@@ -1,10 +1,12 @@
 ###################
-# 2014-04-47 -- 
+# 2014-04-27 -- 
 # Reacquaint with basic python functionality.
 # Review common concepts to ensure familiarity
 
 #Import Modules Here
 import sys
+Job description
+
 
 #Gather our test code in a main() function
 def main():

@@ -45,8 +45,30 @@ def match_ends(words):
 # Hint: this can be done by making 2 lists and sorting each of them
 # before combining them.
 def front_x(words):
-  # +++your code here+++
-  return
+    
+    #initialize lists for adding words to
+    list1=[]
+    list2=[]
+    
+    #iterate through the collection passed into the front_x function
+    for word in words:
+        #test to seee if the object begins with 'x'
+        if word[0] == 'x':
+            list1.append(word)
+            #print list1
+        else:
+            list2.append(word)
+            #print list2
+    
+    #break out of for loop
+    #sort list1
+    list1.sort()
+    #sort list2
+    list2.sort()
+    #return the final list with the extend operator
+    finallist=list1+list2
+    print finallist
+    return finallist
 
 
 
