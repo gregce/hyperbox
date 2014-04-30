@@ -6,4 +6,6 @@ String1 is the first set of string exercises from the Google Python class.
 Wrote ~100 lines of Python.
 
 
-2014-04-28: (Placeholder)
+2014-04-28: Finished ~20 lines of Python by completing the List.py exercises
+
+2014-04-29: Wrote ~5 lines of python. Am going into technical debt. Will make up tomorrow on the plane by going through Dicts and Files and Regular Expressions from the Google python class.
