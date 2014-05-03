@@ -9,3 +9,11 @@ Wrote ~100 lines of Python.
 2014-04-28: Finished ~20 lines of Python by completing the List.py exercises
 
 2014-04-29: Wrote ~5 lines of python. Am going into technical debt. Will make up tomorrow on the plane by going through Dicts and Files and Regular Expressions from the Google python class.
+
+2014-04-30: Wrote ~1 line of python.
+
+2014-05-01: Wrote ~1 line of python.
+
+2014-05-02: Wrote ~1 line of python.
+
+2014-05-03: Picked up development again. Thought and tested List comprehensions, Dicts, the Del operator and opening and reading files. Worked on wordcount.py
