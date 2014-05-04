@@ -45,9 +45,16 @@ import sys
 # and builds and returns a word/count dict for it.
 # Then print_words() and print_top() can just call the utility function.
 
+#Utility functions called by print_top and print_words
+######
 def lower(word):
     return word.lower()
     
+def last_tup_item(toople):
+    return toople[-1]
+#####
+
+#Main function that creates the dictionary from the file
 def create_dict(filename):
     #initialize a dictionary
     dictionary={}
@@ -75,6 +82,16 @@ def print_words(filename):
     #iterate over all key value pairs in the dictionary and print them       
     dictionary=create_dict(filename)
     for k, v in dictionary.items(): print k, v
+    
+def print_top(filename):
+    dictionary=create_dict(filename)
+    count=0
+    for k,v in sorted(dictionary.items(),key=last_tup_item, reverse=True):
+        count=count+1
+        if count == 21:
+            break
+        else:
+            print k, v
 
 
 ###
