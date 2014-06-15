@@ -17,3 +17,7 @@ Wrote ~100 lines of Python.
 2014-05-02: Wrote ~1 line of python.
 
 2014-05-03: Picked up development again. Thought and tested List comprehensions, Dicts, the Del operator and opening and reading files. Worked on wordcount.py
+
+2014-05-23: Resuming python. Life is beginning to stabilize. Going to sign with google.
+
+2014-06-08: Resumed python… Signed with Google… In transition but need to start learning again.
