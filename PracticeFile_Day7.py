@@ -13,7 +13,6 @@
 #I recommend that you always write pattern strings with the 'r' just as a habit.
 
 '''
-Basic Patterns
 
 The power of regular expressions is that they can specify patterns, not just fixed characters. Here are the most basic patterns which match single chars:
 
