@@ -1,0 +1,25 @@
+Number,Dashboard,dashboard_path,Type
+1,1. Metrics By Deal Activity - Geography Summary,BPC - The Owl > Deal Insights > Metrics By Deal Activity > Geography Summary,Deal Insights
+2,2. Metrics By Deal Activity - Accountability Summary,BPC - The Owl > Deal Insights > Metrics By Deal Activity > Accountability Summary,Deal Insights
+3,3. Metrics By Deal Activity - Beta Distribution,BPC - The Owl > Deal Insights > Metrics By Deal Activity > [Beta] Distribution,Deal Insights
+4,4. Metrics By Deal Activity - Beta Moving Average,BPC - The Owl > Deal Insights > Metrics By Deal Activity > [Beta] Moving Average,Deal Insights
+5,5. Metrics By Deal Activity - Descriptive Statistics,BPC - The Owl > Deal Insights > Metrics By Deal Activity > [Beta] Descriptive Statistics,Deal Insights
+6,6. Metrics By Deal Approver  - TAT Summary,BPC - The Owl > Deal Insights > Metrics By Deal Approver  >  TAT Summary,Deal Insights
+7,7. Metrics By Deal Stage - Geography Summary,BPC - The Owl > Deal Insights > Metrics by Deal Stage > Geography Summary,Deal Insights
+8,8. Metrics By Deal Stage - Geography Unified Detail,BPC - The Owl > Deal Insights > Metrics by Deal Stage > Geography - Unified Detail,Deal Insights
+9,9. Metrics By Deal Stage - Accountability Summary,BPC - The Owl > Deal Insights > Metrics by Deal Stage > Accountability Summary,Deal Insights
+10,10. Metrics By Deal Stage - Beta Distribution,BPC - The Owl > Deal Insights > Metrics by Deal Stage > [Beta] Distribution,Deal Insights
+11,11. Metrics By Deal Stage - Descriptive Statistics,BPC - The Owl > Deal Insights > Metrics by Deal Stage > [Beta] Descriptive Statistics,Deal Insights
+12,12. Metrics For Sales - Detail Data,BPC - The Owl > Deal Insights > Metrics for Sales  > Detail Data,Deal Insights
+13,13. Legal Deals and Misc - Detail Data,BPC - The Owl > Deal Insights > Legal Deals and Misc > Detail Data,Deal Insights
+14,14. Users & Training - BPC Quiz Coverage,BPC - The Owl > RMC Internal Insights > Training > Coverage,RMC Internal Insights
+15,15. Users & Training - Quizzes,BPC - The Owl > RMC Internal Insights > Training > Quizzes,RMC Internal Insights
+16,16. Users & Training - D2 Training,BPC - The Owl > RMC Internal Insights > Users & Training > D2 Training,RMC Internal Insights
+17,17. gCases Queries - Summary of All Cases,BPC - The Owl > RMC Internal Insights > gCases Queries > Summary of All Cases,RMC Internal Insights
+18,18. gCases Queries - Queue Volume,BPC - The Owl > RMC Internal Insights > gCases Queries > Queue Management > Volume,RMC Internal Insights
+19,19. gCases Queries - Queue Efficiency,BPC - The Owl > RMC Internal Insights > gCases Queries > Queue Management > Efficiency,RMC Internal Insights
+20,20. gCases Queries - CIR Metrics,BPC - The Owl > RMC Internal Insights > gCases Queries > CIR Metrics,RMC Internal Insights
+21,21.  gCases Queries - Summary By Requestor,BPC - The Owl > RMC Internal Insights > gCases Queries > Summary By Requestor,RMC Internal Insights
+22,22.  gCases Queries - Summary By Hotkey,BPC - The Owl > RMC Internal Insights > gCases Queries > Summary By HotKey,RMC Internal Insights
+23,23. AAS Coverage - AAS Questions,BPC - The Owl > RMC Internal Insights > AAS Coverage > AAS Questions,RMC Internal Insights
+24,24. AAS Answers/Usage,BPC - The Owl > RMC Internal Insights > AAS Coverage > AAS Answers/Usage,RMC Internal Insights

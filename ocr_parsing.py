@@ -44,3 +44,49 @@ Optional: define a helper function to avoid code duplication inside
 print_words() and print_top().
 
 """
+import os
+os.chdir('/Users/ceccarelli/Desktop')
+
+filename = 'GSX Contract Output.txt'
+
+def lower(word):
+    return word.lower()
+
+def create_dict(filename):
+    #initialize a dictionary
+    dictionary={}
+    
+    #open the specificed file
+    re = open(filename,'r')
+    
+    #iterate over the lines in the file
+    for line in re:
+        #iterate over the words in the line
+        for word in line.split():
+            #check to see if the word is in the dictionary; if not, add it
+            if lower(word) not in dictionary:
+                dictionary[lower(word)] = 1
+            #if key exists, update its count value
+            else:
+                count=dictionary.get(lower(word))+1
+                dictionary[lower(word)]=count
+                
+    #close the file
+    re.close()
+    return dictionary
+
+def read_all(filename):
+    ra = open(filename,'r')
+    
+    for line in ra:
+        print line
+    return
+
+
+#read_all(filename)
+
+dictionary=create_dict(filename)
+print dictionary['this']
+dictionary.viewitems()
+#for k, v in dictionary.items(): print k, v
+print __file__
